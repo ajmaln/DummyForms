@@ -25,7 +25,7 @@ SECRET_KEY = 'pdstuhzv+taxl6eh$d1gtpmx8(ll&h86txjm09cn^4mk(z7p%^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ajmal.pythonanywhere.com']
 
 
 # Application definition
